@@ -7,14 +7,14 @@ In this project, you will do all the machine learning without using any of the p
 
 __In this Guided Project, you will:__
 
+- Implement the gradient descent algorithm from scratch
+
 - Perform logistic regression with NumPy and Python
 
  - Create data visualizations with Matplotlib and Seaborn
 ---
 
 __Following steps are performed__
-
--Introduction and Project Overview
 
 -Load the Data and Import Libraries
 
